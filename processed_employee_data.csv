@@ -1,0 +1,6 @@
+Employee_ID,Name,Department,Salary,Years_Exp,Bonus
+101,Alice,HR,55000.0,3,5500.0
+102,Bob,IT,85000.0,7,8500.0
+103,Charlie,IT,68000.0,5,6800.0
+104,David,Finance,72000.0,2,7200.0
+105,Eva,HR,60000.0,4,6000.0
